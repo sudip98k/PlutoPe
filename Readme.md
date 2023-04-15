@@ -12,6 +12,8 @@
 `npm install `
 ### start the server
 `npm start`
+### running port
+`localhost:4000`
 ### This is my users register
 ![Alt text](images/Screenshot%20(306).png)
 ### This is my users login
